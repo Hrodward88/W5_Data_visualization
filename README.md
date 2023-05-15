@@ -62,6 +62,7 @@ Una vez hecho esto, solo queda jugar con los datos.
 ¡A por ello!
 
 
-https://github.com/Hrodward88/W5_Data_visualization/assets/129097999/89967eb3-de7f-41ee-a977-3fa11aab6e80
+![MfJw](https://github.com/Hrodward88/W5_Data_visualization/assets/129097999/bd425758-8f11-407f-87c7-d5f8219dc4fa)
+
 
 
