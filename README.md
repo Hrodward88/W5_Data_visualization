@@ -55,6 +55,8 @@ Esta herramienta proporcionará información tanto para aquellos que tratan de c
 
 https://public.tableau.com/app/profile/eduardo.goicoechea/viz/PokemonDashboard-Analytics2/Dashboard1?publish=yes
 
+https://public.tableau.com/app/profile/eduardo.goicoechea/viz/PokemonDashboard-TypeDistributionSquares/Dashboard1 (Update de 18-05, porque vi que el anterior no mostraba todo lo que debía y no entiendo por qué)
+
 De nuevo, un screenshot está disponible en este repositorio.
 
 Una vez hecho esto, solo queda jugar con los datos.
